@@ -19,7 +19,7 @@ Topics:
 
 A steady-state distillation column simulator based on the MESH-equations (Material, Equilibrium, Summation and Heat balances).
 
-The project employs different techniques for handling particularly problematic distillation feeds. 
+The project employs different techniques for handling particularly problematic distillations. 
 
 Topics:
 
