@@ -59,4 +59,4 @@ Topics:
 
 <h3 align="center">Check out my repos ⬇️</h3>
 
-[^1]: A technique in which you start with a problem that you can solve and then (more or less) continuously deform that problem into the desired, more difficult problem.
+[^1]: A technique in which you start with a problem that you can solve and then gradually deform that problem into the desired, more difficult problem.
