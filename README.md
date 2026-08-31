@@ -17,7 +17,7 @@ Topics:
 
 ### ```DistillationColumn.py```
 
-A steady-state distillation column simulator based on the MESH-equations (Material, Equilibrium, Summation and Heat balances).
+A steady-state distillation column simulator based on the MESH-equations (**M**aterial, **E**quilibrium, **S**ummation and **H**eat balances).
 
 The project employs different techniques for handling particularly problematic distillations. 
 
