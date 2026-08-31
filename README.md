@@ -28,7 +28,7 @@ Topics:
 ---
 
 ### Techniques employed in my projects that you might find interesting:
-- Continuous homotopy[^1] for improving convergence for particularly challenging, nonlinear problems.
+- Homotopy continuation[^1] for improving convergence for particularly challenging, nonlinear problems.
 - NumPy vectorization for efficient numerical calculations.
 - Object-oriented architecture for modular scientific software.
 
