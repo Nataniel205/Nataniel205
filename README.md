@@ -23,14 +23,14 @@ The project employs different techniques for handling particularly problematic d
 
 Topics:
 
-```Python``` ```NumPy``` ```Thermodynamics``` ```Numerical Methods``` ```Process Simulation``` ```Vectorization```
+```Python``` ```NumPy``` ```Thermodynamics``` ```Numerical Methods``` ```Process Simulation``` ```NumPy Vectorization```
 
 ---
 
 ### Techniques employed in my projects that you might find interesting:
 - Continuous homotopy[^1] for improving convergence for particularly challenging, nonlinear problems.
 - NumPy vectorization for efficient numerical calculations.
-- Object-oriented architecture for modular scientific software
+- Object-oriented architecture for modular scientific software.
 
 ---
 ### Languages that I know:
