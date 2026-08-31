@@ -23,7 +23,7 @@ The project employs different techniques for handling particularly problematic d
 
 Topics:
 
-```Python``` ```NumPy``` ```Thermodynamics``` ```Numerical Methods``` ```Process Simulation```
+```Python``` ```NumPy``` ```Thermodynamics``` ```Numerical Methods``` ```Process Simulation``` ```Vectorization```
 
 ---
 
